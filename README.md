@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **vansharora2204@gmail.com**
 
-- ⚡ Fun fact **I am a Funny boy**
+- ⚡ Fun fact **I am a Jolly person**
 <div id="header" >
   <img align="right" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" width="300"/>
 </div>
