@@ -1,4 +1,4 @@
-![02]https://cdn.pixabay.com/photo/2016/04/04/14/12/monitor-1307227__480.jpg
+![02](https://cdn.pixabay.com/photo/2016/04/04/14/12/monitor-1307227__480.jpg)
 
 <h1 align="center">Hi 👋, I'm Vansh Arora</h1>
 <h3 align="center">A passionate full-stack developer and DSA Lover.</h3>
