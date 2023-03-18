@@ -6,7 +6,7 @@
   <img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" width="100"/>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thakuratul2&label=Profile%20views&color=0e75b6&style=flat" alt="thakuratul2" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thakuratul2&label=Profile%20views&color=0e75b6&style=flat" alt="vansh_arora" /> </p>
 
 
 - 🔭 I’m currently working on my backend skills and apparently working on different projects.
@@ -82,7 +82,7 @@
     </tbody>
 </table>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thakuratul2&show_icons=true&locale=en&layout=compact&show_icons=true&theme=radical" alt="vansh_arora" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arora-vansh&show_icons=true&locale=en&layout=compact&show_icons=true&theme=radical" alt="vansh_arora" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=arora-vansh2&show_icons=true&locale=en&show_icons=true&theme=radical" alt="vansh_arora" /></p>
 
