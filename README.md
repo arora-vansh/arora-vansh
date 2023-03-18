@@ -84,6 +84,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arora-vansh&show_icons=true&locale=en&layout=compact&show_icons=true&theme=radical" alt="vansh_arora" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=arora-vansh2&show_icons=true&locale=en&show_icons=true&theme=radical" alt="vansh_arora" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=arora-vansh&show_icons=true&locale=en&show_icons=true&theme=radical" alt="vansh_arora" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arora-vansh&&show_icons=true&theme=radical" alt="vansh_arora" /></p>
