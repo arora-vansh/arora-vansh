@@ -6,7 +6,7 @@
   <img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" width="100"/>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thakuratul2&label=Profile%20views&color=0e75b6&style=flat" alt="vansh_arora" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arora-vansh&label=Profile%20views&color=0e75b6&style=flat" alt="vansh_arora" /> </p>
 
 
 - 🔭 I’m currently working on my backend skills and apparently working on different projects.
